@@ -1,6 +1,6 @@
 {
 	"name": "@js-util/promise-sleep",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Returns a promise, which resolve after the specified sleep itme (ms)",
 
 	"keywords": [
